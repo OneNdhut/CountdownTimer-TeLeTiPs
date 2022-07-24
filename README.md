@@ -63,3 +63,5 @@ Example:
 ```
 ## Read GNU AFFERO GENERAL PUBLIC LICENSE: 
 [LICENSE](https://github.com/teletips/CountdownTimer-TeLeTiPs/blob/main/LICENSE)
+
+    
